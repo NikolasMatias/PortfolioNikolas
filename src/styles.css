@@ -1,3 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~bootstrap/dist/css/bootstrap.min.css';
-@import "~font-awesome/css/font-awesome.min.css";
+@import "assets/css/advanced-options/use-with-node-js/fontawesome-free-webfonts/css/fontawesome.css";
+@import "assets/css/advanced-options/use-with-node-js/fontawesome-free-webfonts/css/fa-brands.css";
+@import "assets/css/advanced-options/use-with-node-js/fontawesome-free-webfonts/css/fa-regular.css";
+@import "assets/css/advanced-options/use-with-node-js/fontawesome-free-webfonts/css/fa-solid.css";
